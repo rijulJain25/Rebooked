@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723298314379",
+    "project_id": "rebooked-app",
+    "storage_bucket": "rebooked-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723298314379:android:787a99e5b6b32ebea50c8e",
+        "android_client_info": {
+          "package_name": "com.rijuljain.rebooked_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723298314379-mp795hg26qmkq1h344p7reu23ql9p3da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJKT-UduaZvsJGN5y_L0Z1LL5lTATdWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723298314379-mp795hg26qmkq1h344p7reu23ql9p3da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
